@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirstPage</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settingactivity">settingactivity</string>
+    <string name="title_activity_adding_number">AddingNumber</string>
+    <string name="title_activity_adding_email">AddingEmail</string>
+    <string name="title_activity_message">Message</string>
+</resources>
